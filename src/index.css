@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #10051c;
+}
+.empty-state {
+  text-align: center;
+  padding: 50px 20px;
+  border: 1px solid #39204f;
+  border-radius: 15px;
+  background: #180b26;
+}
+
+.empty-state h2 {
+  color: #c49aff;
+  margin-bottom: 10px;
+}
+
+.empty-state p {
+  color: #b9a8c9;
+}
